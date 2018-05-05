@@ -118,6 +118,7 @@ Images| OCR
 Segmentation depends on how the plates are extracted. So, if a plate is extracted correctly, the segmentation into characters works.
 
 Data Set | Total Images | Localization | Segmentation 
+--- | --- | --- | ---
 G1| 810 | 55.95 | 55.95
 G2| 700| 54.85 | 54.85
 G3| 743  | 49.79 | 49.79
