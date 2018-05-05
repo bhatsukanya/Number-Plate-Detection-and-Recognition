@@ -103,7 +103,36 @@ Character in the image.
 
 Image | Localization | Segmentation 
 --- | --- | --- 
-![alt text]{Samples/G1 (5).jpg}| ![picture]{Localization Results/G1 (5).jpg}| ![picture]{Segmentation Results/G1 (5).jpg}
+| | 
+--- | --- | --- 
 
 
+Images| OCR
+---| ---
+| 
+--- | ---
 
+
+### Accuracy (%)
+
+Segmentation depends on how the plates are extracted. So, if a plate is extracted correctly, the segmentation into characters works.
+
+Data Set | Total Images | Localization | Segmentation 
+--- | --- | --- | ---
+G1| 810 | 55.95 | 55.95
+--- | --- | --- | ---
+G2| 700| 54.85 | 54.85
+--- |--- | --- | ---
+G3| 743  | 49.79 | 49.79
+--- | --- | --- | ---
+G4| 572 | 31.81 | 31.81
+--- | --- | --- | ---
+G5| 1152 | 51.73 | 51.73
+--- | --- | --- | ---
+
+Method | OCR
+--- | ---
+Single Instance | 27.77
+--- | ---
+
+Because of noisy data and inconsistent format in test images and template images, we are not able to accurate results.
