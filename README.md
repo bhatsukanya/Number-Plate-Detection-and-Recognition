@@ -103,14 +103,11 @@ Character in the image.
 
 Image | Localization | Segmentation 
 --- | --- | --- 
-| | 
---- | --- | --- 
-
+| |
 
 Images| OCR
 ---| ---
-| 
---- | ---
+|
 
 
 ### Accuracy (%)
@@ -126,6 +123,7 @@ G4| 572 | 31.81 | 31.81
 G5| 1152 | 51.73 | 51.73
 
 Method | OCR
+--- | ---
 Single Instance | 27.77
 
 Because of noisy data and inconsistent format in test images and template images, we are not able to accurate results.
