@@ -103,7 +103,7 @@ Character in the image.
 
 Image | Localization | Segmentation 
 --- | --- | --- 
-[!Screen Shot](Samples/G1 (5).jpg)  |
+[!Screen Shot](Samples/G1(5).jpg)  |
 
 Images| OCR
 ---| ---
