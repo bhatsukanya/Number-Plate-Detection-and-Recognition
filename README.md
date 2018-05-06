@@ -27,7 +27,7 @@ In this process we sharpen the image and then convert it to gray scale. Finally 
 
 2. Localization
 
-#### Approach - 1 :-
+#### Approach-1
 
 Edge Detection We perform edge detection in order to find the closed regions in the image which are close to the shape and size of a number plate.
 
@@ -103,7 +103,7 @@ Character in the image.
 
 Image | Localization | Segmentation 
 --- | --- | --- 
-| |
+[!screenshot]{Localisation/G1 (5).jpg}| |
 
 Images| OCR
 ---| ---
