@@ -114,11 +114,11 @@ Image | Segment1 | Segment2 | Segment3 | Segment4 | Segment5 | Segment6
 ![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Localization%20Results/G2%20(163)_1.jpg) | ![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Segmentation%20Results/G2%20(163)_1/1.jpg) | ![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Segmentation%20Results/G2%20(163)_1/2.jpg) | ![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Segmentation%20Results/G2%20(163)_1/3.jpg) | ![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Segmentation%20Results/G2%20(163)_1/4.jpg) | ![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Segmentation%20Results/G2%20(163)_1/5.jpg) | ![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Segmentation%20Results/G2%20(163)_1/6.jpg)
 ![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Localization%20Results/G2%20(164)_1.jpg) | ![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Segmentation%20Results/G2%20(164)_1/1.jpg) | ![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Segmentation%20Results/G2%20(164)_1/2.jpg) | ![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Segmentation%20Results/G2%20(164)_1/3.jpg) | ![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Segmentation%20Results/G2%20(164)_1/4.jpg) | ![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Segmentation%20Results/G2%20(164)_1/5.jpg) | ![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Segmentation%20Results/G2%20(164)_1/6.jpg)
 
-Image| OCR
+Image| OCR | Correct Label
 ---| ---
-![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Sample%20Characters/2.jpg) | 2
-![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Sample%20Characters/A.jpg) | A
-![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Sample%20Characters/O.jpg) | O
+![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Sample%20Characters/2.jpg) | 2 | 2
+![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Sample%20Characters/A.jpg) | A | A
+![Screen Shot](https://github.com/bhatsukanya/Number-Plate-Detection-and-Recognition/blob/master/Sample%20Characters/O.jpg) | O | 0
 
 
 ### Accuracy (%)
